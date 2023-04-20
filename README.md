@@ -2,7 +2,7 @@
 * **Objective** - To implement a `PhoneBook` class which maps a `name` to many `phoneNumber`
 * **Purpose** - To establish familiarity `Map`
 
-## Instructions:
+## Instructions: RUn test cases when done!!!
 
 ### Building a basic `PhoneBook` class
 * Create a `PhoneBook` class that holds names and phone numbers.
